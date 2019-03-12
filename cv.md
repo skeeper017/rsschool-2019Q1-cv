@@ -6,5 +6,5 @@ Rsume:
 4. HTML 5, CSS 3, Bootstrap, BEM, responsive layout design (without frameworks), basic JavaScript, jQuery, Git, SASS/SCSS, Gulp (little), JIRA
 5. http://upsilonit.com, https://onebar.io
 6. I work as a HTML/CSS developer for 4 years
-7. Selfeducation, www.it-academy.by, I work as a HTML/CSS developer designer for 4 years
+7. Selfeducation, www.it-academy.by (HTML, CSS, basic JavaScript)
 8. Intermediate (finished Streamline courses, but haven't practice)

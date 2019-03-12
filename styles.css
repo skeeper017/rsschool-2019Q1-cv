@@ -123,3 +123,15 @@ table {
 .main-content__item_link:hover {
   text-decoration: none;
 }
+
+@media (max-width: 640px) {
+  .main-content__image {
+    width: 100%;
+    margin-bottom: 30px;
+    margin-right: 0;
+  }
+
+  .main-content__info {
+    width: 100%;
+  }
+}

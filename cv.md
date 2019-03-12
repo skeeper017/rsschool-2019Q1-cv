@@ -1,4 +1,4 @@
-Rsume:
+Resume:
 
 1. Sergey Lebedinsky
 2. Mobile Phone: +375(29)500-80-56

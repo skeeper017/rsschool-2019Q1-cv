@@ -93,3 +93,33 @@ table {
 .avatar {
   max-width: 400px;
 }
+
+.main-content__info {
+  width: calc(100% - 230px);
+}
+
+.main-content__item {
+  position: relative;
+  line-height: 1.8;
+  padding: 10px 0 10px 20px;
+  border-bottom: 1px solid #efefef;
+}
+
+.main-content__item:first-child {
+  border-top: 1px solid #efefef;
+}
+
+.main-content__item_number {
+  position: absolute;
+  left: 0;
+  color: #555555;
+  font-weight: 700;
+}
+
+.main-content__item_link {
+  color: #448fc9;
+}
+
+.main-content__item_link:hover {
+  text-decoration: none;
+}
